@@ -1,0 +1,29 @@
+@font-face {
+  font-family: Roboto;
+  src: url(Roboto.ttf);
+}
+
+body {
+  margin: 0;
+}
+
+textarea {
+  /* Paper */
+  background-color: #efefef;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,.1) 1px, transparent 1px);
+  background-size: 100% 24px;
+  border: none;
+  /* Font */
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  /* Size */
+  width: 560px;
+  height: 410px;
+  margin-bottom: -3px;
+  padding: 0 5px 0 5px;
+}
+
+textarea:focus {
+  outline: none;
+}

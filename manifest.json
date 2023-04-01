@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "OneText",
+  "version": "1.0",
+  "description": "Real Note Taking Extension",
+  "author": "hello@irfanfadilah.com",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
