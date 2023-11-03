@@ -1,12 +1,18 @@
 {
   "manifest_version": 3,
   "name": "OneText",
-  "version": "1.0",
+  "version": "2.0",
   "description": "Real Note Taking Extension",
   "author": "hello@irfanfadilah.com",
   "action": {
-    "default_popup": "index.html",
-    "default_icon": "icon.png"
+    "default_title": "Click to Open Sidepanel"
+  },
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "permissions": ["sidePanel"],
+  "side_panel": {
+    "default_path": "index.html"
   },
   "icons": {
     "128": "icon.png"
