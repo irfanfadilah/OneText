@@ -1,6 +1,6 @@
 # OneText
 
-[![OneText on Chrome Web Store](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/onetext/pgcnnnmfmgkclpoejgddkplpmfhjgjdg)
+[![OneText on Chrome Web Store](https://github.com/irfanfadilah/OneText/blob/master/webstore.png)](https://chrome.google.com/webstore/detail/onetext/pgcnnnmfmgkclpoejgddkplpmfhjgjdg)
 
 # Screenshot
 
